@@ -25,4 +25,4 @@ while True:
             print(data.mean())
     else:
         print("file doesn't exist")
-    time.sleep(10)
+    time.sleep(20)
